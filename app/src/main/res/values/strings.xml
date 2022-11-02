@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mammoth Inspector</string>
+    <string name="get_exchange_rate">GET EXCHANGE RATE</string>
+</resources>
